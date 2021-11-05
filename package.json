@@ -1,6 +1,6 @@
 {
   "name": "lmo-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "localStorage的封装，并提供了一些api",
   "main": "index.js",
   "scripts": {

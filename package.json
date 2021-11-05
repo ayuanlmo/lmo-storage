@@ -1,0 +1,14 @@
+{
+  "name": "lmo-storage",
+  "version": "1.0.0",
+  "description": "localStorage的封装，并提供了一些api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayuanlmo",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  }
+}
